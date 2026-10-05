@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sumbul 👋
 
-<!--
-**sumbul-ahmad/sumbul-ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on machine learning, AI, and research.
 
-Here are some ideas to get you started:
+## What I do
+- Machine learning and deep learning
+- LLM applications (RAG, chatbots)
+- Research and paper reproduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Coming soon
+
+## Contact
+- Email: sumbul.iqbaal94@gmail.com
